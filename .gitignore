@@ -1,7 +1,4 @@
 udetails.oab
-stuff.numbers
-test.txt
-*.pyc
-*.zip
+__pycache__
 test.json
 backup.json
